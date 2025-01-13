@@ -6,10 +6,11 @@
 - 👀 I’m interested in **geospatial & web map applications**
 - 🌱 I’m currently learning Python
 - 📫 How to reach me **efchatzinikolaou@gmail.com**
-- ⚡ Fun fact: **jewellery 3d design** 
+- ⚡ Enjoy: **3D design** 
   
 🛠️ **Tech Skills**
 <h3 align="left">Programming & Tools:</h3>
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 
 
