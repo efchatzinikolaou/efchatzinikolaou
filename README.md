@@ -11,7 +11,7 @@
 🛠️ **Tech Skills**
 <h3 align="left">Programming & Tools:</h3>
 
-<img src="./images/python.svg" alt="Python"  title="Python" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50">
+<img src="./images/Python-logo.png" alt="Python"  title="Python" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50">
 
 
 <!---
