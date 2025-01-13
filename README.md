@@ -4,14 +4,17 @@
 <p></p>
 
 - 👀 I’m interested in **geospatial & web map applications**
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **efchatzinikolaou@gmail.com**
 - ⚡ Enjoy: **3D design** 
   
 🛠️ **Tech Skills**
 <h3 align="left">Programming & Tools:</h3>
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+Languages
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Python_logo_notext.svg" alt="Python" title="Python" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50">
 
 
 <!---
