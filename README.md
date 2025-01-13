@@ -10,12 +10,9 @@
   
 🛠️ **Tech Skills**
 <h3 align="left">Programming & Tools:</h3>
-Languages
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Python_logo_notext.svg" alt="Python" title="Python" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50">
-<img src="./images/postgresql_logo.svg" alt="PostgreSQL" width="50" height="50">
+<img src="./images/python.svg" alt="Python"  title="Python" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50">
+
 
 <!---
 efchatzinikolaou/efchatzinikolaou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
