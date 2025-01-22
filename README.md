@@ -1,10 +1,10 @@
 <h1 align="center">👋 Efi Chatzinikolaou</h1>
-<h3 align="center">GIS Developer & Data Scientist</h3>
+<h3 align="center">Data Engineer & GIS Specialist</h3>
 
 <p></p>
 
 - 👀 I’m interested in **geospatial & web map applications**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently getting into **Machine Learning and Deep Learning**
 - 📫 How to reach me **efchatzinikolaou@gmail.com**
 - ⚡ Enjoy: **3D design** 
   
